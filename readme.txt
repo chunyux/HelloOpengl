@@ -1,0 +1,1 @@
+This is test for using gitshell from visual studio 2013
